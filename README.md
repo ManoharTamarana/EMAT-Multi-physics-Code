@@ -1,10 +1,10 @@
 #####  EMAT - Multi - Physics - Code 
 
-# Development of Simple Quasi 3D FEM Model for SH wave Generation and Reception in EMAT Configuration)
+# Development of Simple Quasi 3D FEM Model for SH wave Generation and Reception in EMAT Configuration
 
 ##### Manohar Tamarana, N.N. Kishore, Sriram Sundar
 
-##### (Extended Abstract acceptef for Q&E 2020, ASME)
+##### (Extended Abstract acceptef for QNDE 2020, ASME)
 
 
 
