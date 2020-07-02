@@ -4,7 +4,7 @@
 
 ##### Manohar Tamarana, N.N. Kishore, Sriram Sundar
 
-##### (Extended Abstract acceptef for QNDE 2020, ASME)
+##### (Extended Abstract accepted for QNDE 2020, ASME)
 
 
 
